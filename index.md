@@ -13,5 +13,8 @@ Om du är i akut behov av artiklar om frihet och sund ekonomisk teori rekommende
 </article>
 
 <link rel="stylesheet" href="mvp.css">
+<link rel="icon" 
+      type="image/png" 
+      href="images/mises-shield-128x128.png">
 
 </main>
